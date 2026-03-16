@@ -5,7 +5,7 @@ import threading
 import time
 
 print("⚙️ Запуск скрипта... Загрузка библиотек")
-BOT_TOKEN = '8797462702:AAHWBWQrFBBMLV_IcA8lm9XRh6Eu-nwJ5WU'
+BOT_TOKEN = '8708256332:AAFOMWD5QtdsjtS-LCL9PL23mnM0neOrg4k'
 ADMIN_IDS = [7283380508]  # Твой ID
 
 bot = telebot.TeleBot(BOT_TOKEN, parse_mode='HTML')
